@@ -1,4 +1,4 @@
-example = "Тапинамбур"
+example = "Тапинамбу+р"
 print(example[0])
 print(example[-1])
 print(example[5:])
